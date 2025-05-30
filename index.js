@@ -12,6 +12,7 @@ const corsOptions = {
     'http://localhost:5173',
     'http://localhost:5174',
     'https://woodenspice-mnkgnj-beutha-umai.web.app',
+    'https://woodenspice-mnkgnj-beutha-umai.firebaseapp.com',
   ],
   credentials: true,
   optionSuccessStatus: 200,
